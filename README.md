@@ -13,6 +13,6 @@ With a classical computer, you will need to make many queries to the black box t
 But the Deutsch-Jozsa Algorithm in the quantum world allows us to solve this problem with just one query. 
 
 It uses the principles of superposition and interference seen in quantum computing. 
-Through enconding the inputs into quantum bits, called quibits, and performing operations on these qubits, the algorithm can determine whether the function is constant or balanced by just looking at the interference pattern between possible outputs. 
+Through enconding the inputs into quantum bits, called qubits, and performing operations on these qubits, the algorithm can determine whether the function is constant or balanced by just looking at the interference pattern between possible outputs. 
 
 This algorithm is an interesting yet straightforward demonstration of the power of quantum computing. 
