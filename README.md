@@ -7,7 +7,7 @@ In simple terms, imagine you have a black box that takes an input of either 0 or
 A constant funtion always gives the same output, regardless of the input.
 A balanced funtion outputs 0 for half the possible inputs and 1 for the other half.
 
-The goal of the Deutsch-Jozsa Algorithm is to determine whether the given black box function is constant or balanced using the fewest possible queries.
+The goal of the Deutsch-Jozsa Algorithm is to determine whether the given black box function is constant or balanced using the fewest possible input queries.
 
 With a classical computer, you will need to make many queries to the black box to determine whether the function is constant or balanced.
 But the Deutsch-Jozsa Algorithm in the quantum world allows us to solve this problem with just one query. 
